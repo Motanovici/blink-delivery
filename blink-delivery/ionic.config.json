@@ -1,0 +1,7 @@
+{
+  "name": "blink-delivery",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
